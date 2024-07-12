@@ -1,3 +1,4 @@
+// Rich text app
 import React, { useState, useEffect, useRef } from 'react';
 import Button from './Button';
 import './App.css';
